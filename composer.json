@@ -1,5 +1,5 @@
 {
-    "name": "smart_date_calendar_kit",
+    "name": "rshellclarity/smart_date_calendar_kit",
     "type": "drupal-module",
     "description": "Initial configuration to show your Smart Date values in a Fullcalendar View",
     "keywords": [
@@ -14,6 +14,6 @@
       "php": "^7.1",
       "drupal/add_content_by_bundle": "^1.0@alpha",
       "drupal/fullcalendar_view": "^4.1",
-      "drupal/smart_date_starter_kit": "^1.0"
+      "rshellclarity/smart_date_starter_kit": "^1.0"
     }
 }
